@@ -44,5 +44,6 @@ I'm fully dedicated to improving my stats on GitHub 😄
 
 ![Diogo Barros - GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoBarros03&show_icons=true&theme=gruvbox)
 
-
 #
+
+📧 Feel free to reach out to me via email: <a href="mailto:diogo.ma.barros03@gmail.com">diogo.ma.barros03@gmail.com</a>
