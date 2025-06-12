@@ -5,9 +5,6 @@
 I'm a full-stack developer and DevOps enthusiast who loves working with infrastructure. I enjoy taking projects from the ground up, from planning and design to rolling up my sleeves and solving real-world problems with code. I'm all about building things from scratch and making sure everything runs smoothly, from the first idea to the final product.
 
    <p align="left">
-     <a href="https://diogobarrosportfolio.com" target="_blank">
-         <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=portfolio&logoColor=white"/>
-      </a>
      <a href="https://www.linkedin.com/in/diogo-barros-a105371b6/" target="_blank">
          <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
